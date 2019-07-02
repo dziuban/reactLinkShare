@@ -1,0 +1,11 @@
+.adding-form {
+    box-sizing: border-box;
+    background-color: grey;
+    padding: 10px 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.link-item {
+    padding: 3px 30px;
+}
